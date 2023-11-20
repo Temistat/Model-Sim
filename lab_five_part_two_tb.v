@@ -1,0 +1,17 @@
+module lab_five_part_two_tb;
+reg clk;
+wire[3:0] out;
+
+lab_five_part_two dut(clk,out);
+
+always #5 clk = ~clk;
+
+initial 
+begin
+$monitor("out=%b",out);
+
+clk = 0;
+#200 $finish;
+end
+
+endmodule

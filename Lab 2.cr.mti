@@ -1,0 +1,8 @@
+{C:/Users/Admin/Documents/NYU/ECE/ECE 2204/Lab 2/Design.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/Lab 2/Design.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module and12_tb
+
+Top level modules:
+	and12_tb
+
+} {} {}}

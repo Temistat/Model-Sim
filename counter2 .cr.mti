@@ -1,0 +1,43 @@
+{C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/CounterC.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/CounterC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module CounterC
+
+Top level modules:
+	CounterC
+
+} {} {}} {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/CounterB_tb.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/CounterB_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module CounterB_tb
+
+Top level modules:
+	CounterB_tb
+
+} {} {}} {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/Demultiplexer.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/Demultiplexer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module Demultiplexer
+
+Top level modules:
+	Demultiplexer
+
+} {} {}} {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/CounterC_tb.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/CounterC_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module CounterC_tb
+
+Top level modules:
+	CounterC_tb
+
+} {} {}} {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/Demultiplexer_tb.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/Demultiplexer_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module Demultiplexer_tb
+
+Top level modules:
+	Demultiplexer_tb
+
+} {} {}} {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/CounterB.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/CounterB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module CounterB
+
+Top level modules:
+	CounterB
+
+} {} {}}

@@ -1,0 +1,21 @@
+`timescale 1ns/1ps
+module CounterB_tb;
+
+reg clk,F;
+wire [3:0]out;
+
+CounterB dut(clk,F,out);
+
+always #5 clk = ~clk; //create clk
+
+initial
+begin
+
+$monitor("out=%b",out);
+clk=0;
+F=1; //upcounter
+#200 F=0; //downcounter
+#400 $finish;
+end
+
+endmodule

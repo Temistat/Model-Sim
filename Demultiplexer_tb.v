@@ -1,0 +1,27 @@
+`timescale 1ns/1ps
+
+module Demultiplexer_tb;
+
+reg[1:0]sel; //input
+reg f;
+
+wire a,b,c,d; // output
+
+integer i; // used in for loop
+
+Demultiplexer dut(sel,f,a,b,c,d);
+
+initial begin
+f=0;
+sel=0;
+
+for(i=0;i<8;i=i+1)
+begin
+{f,sel}=i;
+
+#10;
+end
+
+end
+
+endmodule

@@ -1,0 +1,15 @@
+{C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/lab_five_part_two.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/lab_five_part_two.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module lab_five_part_two
+
+Top level modules:
+	lab_five_part_two
+
+} {} {}} {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/lab_five_part_two_tb.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 9(lab 5)/lab_five_part_two_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module lab_five_part_two_tb
+
+Top level modules:
+	lab_five_part_two_tb
+
+} {} {}}

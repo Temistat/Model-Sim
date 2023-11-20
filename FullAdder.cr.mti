@@ -1,0 +1,15 @@
+{C:/Users/Admin/Documents/NYU/ECE/ECE 2204/Lab 1/full_adder.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/Lab 1/full_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module FullAdder
+
+Top level modules:
+	FullAdder
+
+} {} {}} {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/Lab 1/full_adder_tb.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/Lab 1/full_adder_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module FullAdder_tb
+
+Top level modules:
+	FullAdder_tb
+
+} {} {}}

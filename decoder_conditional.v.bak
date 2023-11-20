@@ -1,0 +1,20 @@
+module decoder_conditional(
+  input [2:0]a,
+  output [7:0]z
+);
+
+always@(a)
+begin
+     case(a)
+	3'b000: z= 8'b00000001;
+	3'b001: z= 8'b00000010;
+	3'b010: z= 8'b00000100;
+	3'b011: z= 8'b00001000;
+	3'b100: z= 8'b00010000;
+	3'b101: z= 8'b00100000;
+	3'b110: z= 8'b01000000;
+	3'b111: z= 8'b10000000;
+      endcase
+end
+
+endmodule

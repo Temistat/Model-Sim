@@ -1,0 +1,15 @@
+{C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 6(lab3)/decoder.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 6(lab3)/decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module decoder
+
+Top level modules:
+	decoder
+
+} {} {}} {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 6(lab3)/decoder_tb.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 6(lab3)/decoder_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module decoder_tb
+
+Top level modules:
+	decoder_tb
+
+} {} {}}

@@ -1,0 +1,29 @@
+{C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 8(lab 5)/decoder_continuous.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 8(lab 5)/decoder_continuous.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module decoder_continuous
+
+Top level modules:
+	decoder_continuous
+
+} {} {}} {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 8(lab 5)/decoder_conditional.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 8(lab 5)/decoder_conditional.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module decoder_conditional
+
+Top level modules:
+	decoder_conditional
+
+} {} {}} {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 8(lab 5)/decoder_primitive.v} {1 {vlog -work work -stats=none {C:\Users\Admin\Documents\NYU\ECE\ECE 2204\lab 8(lab 5)\decoder_primitive.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module decoder_primitive
+
+Top level modules:
+	decoder_primitive
+
+} {} {}} {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 8(lab 5)/decoder_tb.v} {1 {vlog -work work -stats=none {C:/Users/Admin/Documents/NYU/ECE/ECE 2204/lab 8(lab 5)/decoder_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module decoder_tb
+
+Top level modules:
+	decoder_tb
+
+} {} {}}

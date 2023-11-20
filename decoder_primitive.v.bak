@@ -1,0 +1,21 @@
+module decoder_primitive(
+   input  [2:0] a,
+   output [7:0] z,
+
+  wire [2:0] abar;
+
+not A0(abar[0],a[0]);
+not A1(abar[1],a[1]);
+not A2(abar[2],a[2]);
+
+and Z0(z[0],abar[2],abar[1],abar[0]);
+and Z1(z[1],abar[2],abar[1],a[0]);
+and Z2(z[2],abar[2],a[1],abar[0]);
+and Z3(z[3],abar[2],a[1],a[0]);
+and Z4(z[4],a[2],abar[1],abar[0]);
+and Z5(z[5],a[2],abar[1],a[0]);
+and Z6(z[6],a[2],a[1],abar[0]);
+and Z7(z[7],a[2],a[1],a[0]);
+
+
+endmodule
